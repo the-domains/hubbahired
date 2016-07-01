@@ -15,14 +15,14 @@ description: >-
   have helped generate hundreds of jobs for companies in Southeast Asia. HUBBA
   Hired is proud to partner with startups from all sectors across Southeast
   Asia.
-datePublished: '2016-07-01T11:55:05.455Z'
-dateModified: '2016-07-01T11:49:48.294Z'
+datePublished: '2016-07-01T18:18:06.442Z'
+dateModified: '2016-07-01T18:17:50.459Z'
 title: ''
 author: []
-authors: []
-publisher: null
 sourcePath: >-
   _posts/2016-07-01-hubba-hired-the-recruitment-arm-of-hubba-thailand-was-esta.md
+authors: []
+publisher: null
 starred: true
 url: hubba-hired-the-recruitment-arm-of-hubba-thailand-was-esta/index.html
 _type: Article
