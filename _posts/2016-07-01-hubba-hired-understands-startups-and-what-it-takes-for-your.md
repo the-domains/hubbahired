@@ -11,8 +11,8 @@ description: >-
   generate hundreds of jobs for multiple companies. We partner with startups to
   recruit more effectively and efficiently by embedding ourselves deep with the
   company’s core hiring strategies and needs.
-datePublished: '2016-07-01T11:38:59.458Z'
-dateModified: '2016-07-01T11:38:19.642Z'
+datePublished: '2016-07-01T11:39:18.634Z'
+dateModified: '2016-07-01T11:39:07.981Z'
 title: ''
 author: []
 sourcePath: >-
