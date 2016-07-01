@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[hubbahired]]></title>
-        <description><![CDATA[hubbahired]]></description>
+        <title><![CDATA[HUBBA HIRED]]></title>
+        <description><![CDATA[HUBBA HIRED]]></description>
         <link>https://thegrid.ai/hubbahired/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Jul 2016 09:57:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jul 2016 10:07:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/hubbahired/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Company Profile]]></title>
+            <description><![CDATA[<p></p>]]></description>
+            <link>https://thegrid.ai/hubbahired/f20e5308-0048-4df0-b747-7bcec542b6f6/index.html</link>
+            <guid isPermaLink="false">f20e5308-0048-4df0-b747-7bcec542b6f6</guid>
+            <pubDate>Fri, 01 Jul 2016 10:07:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p></p>]]></description>
             <link>https://thegrid.ai/hubbahired/7663fb59-8788-4b4c-9e27-3acfa4224074/index.html</link>
             <guid isPermaLink="false">7663fb59-8788-4b4c-9e27-3acfa4224074</guid>
             <pubDate>Fri, 01 Jul 2016 09:57:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p></p>]]></description>
-            <link>https://thegrid.ai/hubbahired/f20e5308-0048-4df0-b747-7bcec542b6f6/index.html</link>
-            <guid isPermaLink="false">f20e5308-0048-4df0-b747-7bcec542b6f6</guid>
-            <pubDate>Fri, 01 Jul 2016 09:54:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
