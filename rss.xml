@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[HUBBA HIRED]]></title>
         <description><![CDATA[HUBBA HIRED]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/hubbahired/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Jul 2016 11:31:24 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 01 Jul 2016 11:35:10 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/hubbahired/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>HUBBA Hired understands startups and what it takes for your business to have the cutting-edge in a competitive market. To date, HUBBA Hired has helped generate hundreds of jobs for multiple companies. We partner with startups to recruit more effectively and efficiently by embedding ourselves deep with the company’s core hiring strategies and needs.</p>]]></description>
+            <link>https://thegrid.ai/hubbahired/hubba-hired-understands-startups-and-what-it-takes-for-your/index.html</link>
+            <guid isPermaLink="false">e7c6b7de-df90-4e4e-b4d4-b8d668d525bc</guid>
+            <pubDate>Fri, 01 Jul 2016 11:35:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b240cc42-0b16-45f7-9a5a-de01090c00fe.png">]]></description>
-            <link>undefinedhubba-hired-the-recruitment-arm-of-hubba-thailand-was-esta/index.html</link>
+            <link>https://thegrid.ai/hubbahired/hubba-hired-the-recruitment-arm-of-hubba-thailand-was-esta/index.html</link>
             <guid isPermaLink="false">fd4cf65d-365b-400f-91f7-36aa45830b90</guid>
             <pubDate>Fri, 01 Jul 2016 11:31:22 GMT</pubDate>
         </item>
