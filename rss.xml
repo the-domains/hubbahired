@@ -4,8 +4,15 @@
         <description><![CDATA[HUBBA HIRED]]></description>
         <link>https://thegrid.ai/hubbahired/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Jul 2016 10:13:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jul 2016 10:13:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/hubbahired/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Logo]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7a2ca411-e704-4abd-bfd8-d2a3d64e886a.png">]]></description>
+            <link>https://thegrid.ai/hubbahired/logo/index.html</link>
+            <guid isPermaLink="false">1089e1af-986f-49f4-b25e-1e0217d4c131</guid>
+            <pubDate>Fri, 01 Jul 2016 10:13:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Understanding the Challenge]]></title>
             <description><![CDATA[<p></p>]]></description>
