@@ -4,7 +4,7 @@
         <description><![CDATA[HUBBA HIRED]]></description>
         <link>https://thegrid.ai/hubbahired/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Jul 2016 10:15:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jul 2016 10:17:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/hubbahired/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Logo]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/hubbahired/logo/index.html</link>
             <guid isPermaLink="false">1089e1af-986f-49f4-b25e-1e0217d4c131</guid>
             <pubDate>Fri, 01 Jul 2016 10:13:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ What's happening now...]]></title>
+            <description><![CDATA[<p></p>]]></description>
+            <link>https://thegrid.ai/hubbahired/whats-happening-now/index.html</link>
+            <guid isPermaLink="false">242243ee-acff-4e49-a395-7159ed128bc7</guid>
+            <pubDate>Fri, 01 Jul 2016 10:17:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
