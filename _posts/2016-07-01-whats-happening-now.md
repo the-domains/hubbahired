@@ -9,8 +9,8 @@ keywords: []
 description: >-
   HUBBA Hired is active with a number of exciting and well-known startups – and
   the list is growing:
-datePublished: '2016-07-02T10:37:26.440Z'
-dateModified: '2016-07-02T10:36:53.861Z'
+datePublished: '2016-07-02T11:46:54.587Z'
+dateModified: '2016-07-02T11:46:40.839Z'
 title: ''
 author:
   - name: ''
